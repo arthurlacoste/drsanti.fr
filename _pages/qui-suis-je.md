@@ -10,4 +10,4 @@ post_date: 2016-04-23 21:24:45
 ---
 Arthur Lacoste, 30 years old.
 
-Looking for a tattoo apprenticeship
+Looking for a tattoo apprenticeship.
