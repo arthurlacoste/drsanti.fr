@@ -12,4 +12,4 @@ I'm Arthur Lacoste, from Grenoble, France.
 
 Looking for a <strong>tattoo apprenticeship</strong>.
 
-Active as a comic book illustrator with the name of "santi".
+Active as a cartoonist &amp; illustrator with the name of "santi".
