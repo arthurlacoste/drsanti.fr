@@ -8,7 +8,7 @@ permalink: https://arthak.fr/qui-suis-je/
 published: true
 post_date: 2016-04-23 21:24:45
 ---
-I'm Arthur Lacoste, from Grenoble, France.
+I'm from Grenoble, France.
 
 Looking for a <strong>tattoo apprenticeship</strong>.
 
