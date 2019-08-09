@@ -4,7 +4,7 @@ post_title: Du carburant
 author: santi
 post_excerpt: ""
 layout: post
-permalink: https://santi.irz.fr/du-carburant/
+permalink: https://arthak.fr/du-carburant/
 published: true
 post_date: 2018-11-24 08:01:20
 ---
