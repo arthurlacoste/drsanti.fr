@@ -1,7 +1,7 @@
 ---
 ID: 86
 post_title: 'Georges : Miam !'
-author: santi
+author: arthak
 post_excerpt: ""
 layout: post
 permalink: https://arthak.fr/georges-1-miam/
