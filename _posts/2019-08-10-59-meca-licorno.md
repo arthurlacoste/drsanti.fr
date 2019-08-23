@@ -1,7 +1,7 @@
 ---
 ID: 570
 post_title: '#59 Meca licorno'
-author: santi
+author: arthak
 post_excerpt: ""
 layout: post
 permalink: https://arthak.fr/59-meca-licorno/
