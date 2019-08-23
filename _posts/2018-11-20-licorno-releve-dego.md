@@ -1,7 +1,7 @@
 ---
 ID: 264
 post_title: 'Licorno : Relevé d&#8217;égo'
-author: santi
+author: arthak
 post_excerpt: ""
 layout: post
 permalink: https://arthak.fr/licorno-releve-dego/
