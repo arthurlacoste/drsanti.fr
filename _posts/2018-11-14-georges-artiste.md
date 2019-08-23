@@ -1,7 +1,7 @@
 ---
 ID: 123
 post_title: 'Georges : artiste'
-author: santi
+author: arthak
 post_excerpt: ""
 layout: post
 permalink: https://arthak.fr/georges-artiste/
