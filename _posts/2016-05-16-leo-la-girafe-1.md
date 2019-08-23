@@ -1,7 +1,7 @@
 ---
 ID: 79
 post_title: 'Léo la girafe #1 à #4'
-author: santi
+author: arthak
 post_excerpt: ""
 layout: post
 permalink: https://arthak.fr/leo-la-girafe-1/
