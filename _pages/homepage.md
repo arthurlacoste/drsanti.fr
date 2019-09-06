@@ -19,12 +19,12 @@ post_date: 2019-01-18 17:10:00
 <p><a class="lp-button-react w-f43c6fc8-825a-d518-6fbb-2d41d1b5c9eb lp-button-react--full is-bold lp-button-react--small lp-button-react--line font-scale-8 line-height-scale-3 css-1tgpsio" contenteditable="false" href="/contact" target="_top" rel="noopener noreferrer" data-widget-link="true" data-link-type="external">Contactez-moi</a></p>
 </div>
 <div class="col-md-3">
-<p><img class="alignnone size-full wp-image-752" src="https://arthak.fr/wp-content/uploads/2019/09/img_1140.png" alt="">
+<p><a href="https://arthak.fr/project-tag/done/"><img class="alignnone size-full wp-image-752" src="https://arthak.fr/wp-content/uploads/2019/09/img_1140.png" alt=""></a>
 <br><br>
 <a class="lp-button-react w-f43c6fc8-825a-d518-6fbb-2d41d1b5c9eb lp-button-react--full is-bold lp-button-react--small lp-button-react--line font-scale-8 line-height-scale-3 css-1tgpsio" contenteditable="false" href="https://arthak.fr/project-tag/done/" target="_top" rel="noopener noreferrer" data-widget-link="true" data-link-type="external">Voir les derniers tatouages</a></p>
 </div>
 <div class="col-md-3">
-<p><img class="alignnone size-full wp-image-751" src="https://arthak.fr/wp-content/uploads/2019/09/img_1137.png" alt=""><br><br>
+<p><a href="https://arthak.fr/project-tag/dispo/"><img class="alignnone size-full wp-image-751" src="https://arthak.fr/wp-content/uploads/2019/09/img_1137.png" alt=""></a><br><br>
 <a class="lp-button-react w-f43c6fc8-825a-d518-6fbb-2d41d1b5c9eb lp-button-react--full is-bold lp-button-react--small lp-button-react--line font-scale-8 line-height-scale-3 css-1tgpsio" contenteditable="false" href="https://arthak.fr/project-tag/dispo/" target="_top" rel="noopener noreferrer" data-widget-link="true" data-link-type="external">Voir les flash disponibles</a></p>
 </div>
 </div>
