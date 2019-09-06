@@ -10,7 +10,7 @@ post_date: 2016-04-24 12:12:29
 ---
 <!-- wp:html -->
 <div class="row">
-<div class="col-md-5"><h3>1 - Choisi ton flash ou détail ton projet<span class="Apple-converted-space">&nbsp;</span></h3>
+<div class="col-md-7"><h3>1 - Choisi ton flash ou détail ton projet<span class="Apple-converted-space">&nbsp;</span></h3>
 <p>Les flashs (uniques) disponibles se trouvent <a href="https://arthak.fr/project-tag/dispo/">en suivant ce lien</a>.<span class="Apple-converted-space">&nbsp;</span></p>
 <p>Je suis ouvert aux projets personnels, ils sont cependant plus cher en général.</p>
 <h3>2 - Envoyer un mail<span class="Apple-converted-space">&nbsp;</span></h3>
@@ -31,7 +31,7 @@ post_date: 2016-04-24 12:12:29
 <li><span style="font-size: inherit;">autres photos de références : dessins, croquis</span></li>
 </ul>
 </div>
-<div class="col-md-7">
+<div class="col-md-5">
 <p>[contact-form to='arthak@gmail.com' subject='Arthak.fr'][contact-field label='Name' type='name' required='1'/][contact-field label='E-mail' type='email' required='1'/][contact-field label='Message' type='textarea' required='1'/][/contact-form]</p>
 </div>
 </div>
