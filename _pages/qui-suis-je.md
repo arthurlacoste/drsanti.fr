@@ -9,10 +9,10 @@ published: true
 post_date: 2016-04-23 21:24:45
 ---
 <h2>Comment prendre rendez-vous ?</h2>
-<h4>1 - Choisi ton flash ou détail ton projet<span class="Apple-converted-space">&nbsp;</span></h4>
+<h3>1 - Choisi ton flash ou détail ton projet<span class="Apple-converted-space">&nbsp;</span></h3>
 <p>Les flashs (uniques) disponibles se trouvent <a href="https://arthak.fr/project-tag/dispo/">en suivant ce lien</a>.<span class="Apple-converted-space">&nbsp;</span></p>
 <p>Je suis ouvert aux projets personnels, ils sont cependant plus cher en général.</p>
-<h4>2 - Envoyer un mail<span class="Apple-converted-space">&nbsp;</span></h4>
+<h3>2 - Envoyer un mail<span class="Apple-converted-space">&nbsp;</span></h3>
 <p><a href="https://arthak.fr/contact/">Via cette page.</a></p>
 <p>Joindre dans votre message :</p>
 <ul>
