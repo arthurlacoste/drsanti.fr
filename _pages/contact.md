@@ -30,6 +30,18 @@ post_date: 2016-04-24 12:12:29
 <li><span style="font-size: inherit;">un de mes dessins qui est dans l'idée de ce qui t'intéresse (si il en a)</span></li>
 <li><span style="font-size: inherit;">autres photos de références : dessins, croquis</span></li>
 </ul>
+
+<h2>A Savoir<span class="Apple-converted-space">&nbsp;</span></h2>
+<p>Tattoo en studio privé "Pixel" à Grenoble.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>Je fonctionne par réservation et acompte. Pour réserver une pièce ainsi qu'une date de rendez-vous, je demande un acompte.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>Dès que l'acompte est reçu, nous fixons une date de rendez-vous ensemble. Cet acompte (arrhes) n'est pas remboursable et couvre les dommages et intérêts en cas d'annulation ou de report de rendez-vous. Si le report est justifié et prévenu à temps (7 jours maximum avant la date de rendez-vous), une nouvelle date de rendez-vous sera trouvée ensemble. Le report ne peut être effectué qu'une seule fois, le cas échéant il faudra à nouveau avancer un acompte (arrhes) afin de trouver une nouvelle date de rendez-vous.</p>
+<p>Ces mesures sont prises dans votre intérêt, dans le mien, et permet une relation tatoueur-client professionnelle et respectueuse de chacun.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>Pour un projet personnel, une fois l'acompte reçu, je commencerai à travailler sur le projet et vous enverrai continuellement les avancées du projet jusqu'à satisfaction.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>Nous pourrons également fixer une date ensemble, en tenant compte du délai de recherches et avancées du projet.</p>
+<p>Je prends le temps de répondre à tous vos messages, ayez l'amabilité de me répondre également.</p>
+<p>Les tarifs ne sont pas négociables.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>Merci de venir à l'heure prévue, le cas échéant vous prenez le risque de perdre votre acompte et votre réservation.</p>
+<p>Le tatouage est une procédure à risques. Le résultat final dépend en très grande partie de vos soins une fois mon travail terminé. Je mets tout en oeuvre durant le tatouage pour être au risque zéro et mon certificat "Hygiène" homologué par l'État en atteste. Il est important de faire extrêmement attention avec vos pratiques post-tatouage et de suivre à la lettre les indications que je vous donne. Je pourrai être le plus méticuleux et le plus hygiénique possible, si vous ne respectez pas celles-ci, tout mon travail effectué au préalable ne servira à rien. En cas de doute sur l'évolution d'un tatouage, il est primordial de venir m'en parler. Je suis disponible pour l'ensemble de mes clients.</p>
 </div>
 <div class="col-md-5">
 <p><br><br>[contact-form to='arthak@gmail.com' subject='Arthak.fr'][contact-field label='Name' type='name' required='1'/][contact-field label='E-mail' type='email' required='1'/][contact-field label='Message' type='textarea' required='1'/][/contact-form]</p>
