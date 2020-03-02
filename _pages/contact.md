@@ -32,7 +32,9 @@ post_date: 2016-04-24 12:12:29
 </ul>
 </div>
 <div class="col-md-5">
-<p><br /><br />[contact-form to='arthak@gmail.com' subject='Arthak.fr'][contact-field label='Name' type='name' required='1'/][contact-field label='E-mail' type='email' required='1'/][contact-field label='Message' type='textarea' required='1'/][/contact-form]</p>
+<p><br><br>[contact-form to='arthak@gmail.com' subject='Arthak.fr'][contact-field label='Name' type='name' required='1'/][contact-field label='E-mail' type='email' required='1'/][contact-field label='Message' type='textarea' required='1'/][/contact-form]</p>
+
+[grw place_photo="https://arthak.fr/wp-content/uploads/2019/01/76-piranha.jpg" place_name="Studio Pixel Tatouage" place_id="ChIJt5PgrCT1ikcR8Sjgx0R-8Us" reviews_lang="fr" pagination="5" text_size="120" refresh_reviews=true lazy_load_img=true reduce_avatars_size=true open_link=true nofollow_link=true]
 </div>
 </div>
 <!-- /wp:html -->
