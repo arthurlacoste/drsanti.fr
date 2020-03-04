@@ -12,6 +12,10 @@ post_date: 2020-01-31 09:23:32
 <figure class="wp-block-image size-large"><img src="https://arthak.fr/wp-content/uploads/2020/01/BA1F97B2-DC6F-42F8-BF55-63CB3AA4B07F.png" alt="" class="wp-image-1177"/></figure>
 <!-- /wp:image -->
 
+<!-- wp:image {"id":2068,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://arthak.fr/wp-content/uploads/2020/03/img_2591.png" alt="" class="wp-image-2068"/></figure>
+<!-- /wp:image -->
+
 <!-- wp:image {"id":1947,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://arthak.fr/wp-content/uploads/2019/12/blacksheep-wolf-mask.png" alt="" class="wp-image-1947"/></figure>
 <!-- /wp:image -->
