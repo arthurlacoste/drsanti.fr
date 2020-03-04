@@ -10,6 +10,13 @@ post_date: 2016-04-24 12:12:29
 ---
 <!-- wp:html -->
 <div class="row">
+
+<div class="col-md-5">
+<p><br><br>[contact-form to='arthak@gmail.com' subject='Arthak.fr'][contact-field label='Name' type='name' required='1'/][contact-field label='E-mail' type='email' required='1'/][contact-field label='Message' type='textarea' required='1'/][/contact-form]</p>
+<br>
+<br>
+[grw place_photo="https://arthak.fr/wp-content/uploads/2019/01/76-piranha.jpg" place_name="Studio Pixel Tatouage" place_id="ChIJt5PgrCT1ikcR8Sjgx0R-8Us" reviews_lang="fr" pagination="5" text_size="120" refresh_reviews=true lazy_load_img=true reduce_avatars_size=true open_link=true nofollow_link=true]
+</div>
 <div class="col-md-7"><h3>1 - Choisi ton flash ou détail ton projet<span class="Apple-converted-space">&nbsp;</span></h3>
 <p>Les flashs (uniques) disponibles se trouvent <a href="https://arthak.fr/project-tag/dispo/">en suivant ce lien</a>.<span class="Apple-converted-space">&nbsp;</span></p>
 <p>Je suis ouvert aux projets personnels, ils sont cependant plus cher en général.</p>
@@ -42,12 +49,6 @@ post_date: 2016-04-24 12:12:29
 <p>Les tarifs ne sont pas négociables.<span class="Apple-converted-space">&nbsp;</span></p>
 <p>Merci de venir à l'heure prévue, le cas échéant vous prenez le risque de perdre votre acompte et votre réservation.</p>
 <p>Le tatouage est une procédure à risques. Le résultat final dépend en très grande partie de vos soins une fois mon travail terminé. Je mets tout en oeuvre durant le tatouage pour être au risque zéro et mon certificat "Hygiène" homologué par l'État en atteste. Il est important de faire extrêmement attention avec vos pratiques post-tatouage et de suivre à la lettre les indications que je vous donne. Je pourrai être le plus méticuleux et le plus hygiénique possible, si vous ne respectez pas celles-ci, tout mon travail effectué au préalable ne servira à rien. En cas de doute sur l'évolution d'un tatouage, il est primordial de venir m'en parler. Je suis disponible pour l'ensemble de mes clients.</p>
-</div>
-<div class="col-md-5">
-<p><br><br>[contact-form to='arthak@gmail.com' subject='Arthak.fr'][contact-field label='Name' type='name' required='1'/][contact-field label='E-mail' type='email' required='1'/][contact-field label='Message' type='textarea' required='1'/][/contact-form]</p>
-<br />
-<br />
-[grw place_photo="https://arthak.fr/wp-content/uploads/2019/01/76-piranha.jpg" place_name="Studio Pixel Tatouage" place_id="ChIJt5PgrCT1ikcR8Sjgx0R-8Us" reviews_lang="fr" pagination="5" text_size="120" refresh_reviews=true lazy_load_img=true reduce_avatars_size=true open_link=true nofollow_link=true]
 </div>
 </div>
 <!-- /wp:html -->
