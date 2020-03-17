@@ -4,12 +4,12 @@ post_title: Toiles
 author: arthak
 post_excerpt: ""
 layout: page
-permalink: https://arthak.fr/showroom-expo/
+permalink: https://arthak.fr/toiles/
 published: true
 post_date: 2019-12-13 00:06:50
 ---
 <!-- wp:paragraph -->
-<p>Si vous souhaitez acheter l'une de ses toiles, n'hésitez pas à me contacter.</p>
+<p>Si vous souhaitez acheter l'une de ses toiles, <a href="https://arthak.fr/contact/">n'hésitez pas à me contacter</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"ids":["1302","1303","1304","1299","1301","1300","1327","1329","1328","1326","1325","1324","1323"],"columns":2,"className":"aligncenter"} -->
