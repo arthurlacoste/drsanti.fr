@@ -1,0 +1,104 @@
+---
+ID: 2391
+post_title: >
+  Un iPad Pro 2020 pour le dessin, c’est
+  mieux qu’un iPad 6G ?
+author: arthak
+post_excerpt: ""
+layout: post
+permalink: >
+  https://arthak.fr/un-ipad-pro-2020-pour-le-dessin-cest-mieux-quun-ipad-6g/
+published: true
+post_date: 2020-03-31 12:19:13
+---
+<!-- wp:paragraph -->
+<p>J’utilise depuis un an et demi un iPad classique 6e génération pour le dessin. C’est le premier de sa génération a accepter les stylets Apple Pencil. Il est assez petit, j’aime bien son côté compact et léger. J’ai cependant décidé de monter en gamme, et je vais vous expliquer pourquoi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Quels sont les avantages concrets qu’apporte un iPad Pro 2020 dans le domaine du dessin ? Bien entendu mes propos seront centrés sur l’utilisation de Procreate principalement, qui est mon principal outil de travail.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>L’enfer des calques</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>La principale raison qui m’a poussé à changer d’iPad, c’était le manque de calque disponibles. Pour mon usage le plus classique, j’utilise un canevas de 3000x3000px a 162 dpi.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Pour l’iPad classique, ceci correspond à 18 calques.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>J’ai - bien heureusement - souvent des sujets très simples qui ne nécessitent pas trop de traitement, mais dès que j’ai des projets plus complexes, 18 calques ne sont pas suffisant. Et la seule manière d’augmenter le nombre de calques disponible est en baissant la qualité du canevas.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>L’écran</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Ensuite, la taille de l’écran. Je passe d’un écran 9,7 pouces à a un écran 12,9. La grosse différence pour moi, c’est de pouvoir séparer l’écran pour visualiser et utiliser des images de référence, alors que la taille du précédent ne me permettais pas de le faire dans de bonnes conditions.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L’écran du iPad Pro est juste génial.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Le stylet et... ...la souris ?!</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Pour finir, le stylet. J’ai été sidéré de me rendre compte que le stylet acheté pour mon iPad classique n’était pas compatible avec le dernier iPad. Passé ce douloureux moment (le Apple Pencil 2 coûte 135€), le plus grand plaisir est de disposer d’un stylet aimanté, qui une fois « collé » au iPad se recharge.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L’autre différence avec le Apple Pencil 1, c’est la possibilité de « switcher » de brush en tapotant son pouce. Alors que ma vieille tablette graphique Wacom Bamboo disposait d’une gomme intégré, Apple distille comme à son habitude les nouvelles fonctionnalités années après années. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Auparavant, le stylet devait être connecté au port lightening du iPad. C’était périlleux et dangereux.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>l’iPad se rapproche année après année de plus en plus d’un ordinateur, et aujourd’hui plus que jamais, le dernier modèle supporte l’utilisation de souris, c’est une première pour un iPad.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Une cover trackpad + clavier sera commercialisé en mai. Je ne sais pas si il remplacera mon ordinateur, qui sait ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":2395,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://arthak.fr/wp-content/uploads/2020/03/image.jpeg" alt="" class="wp-image-2395"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading -->
+<h2>Le reste</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Il parait qu’il prend de belles photos, mais étant confiné je n’ai pas vraiment eu l’occasion de tester</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2>Le prix</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>L’ombre sur le tableau c’est le prix. Mon iPad classique acheté en reconditionné m’a coûté 300€ + un stylet a 100€. 400€.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>L’iPad Pro 12,9 pouces est à 1119€ + 135€ de stylet. 1254€.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Si tu as un rein a vendre, n’hésite pas. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Sinon, l’iPad classique fait bien l’affaire !</p>
+<!-- /wp:paragraph -->
