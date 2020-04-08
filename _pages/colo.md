@@ -4,7 +4,7 @@ post_title: Coloriages
 author: arthak
 post_excerpt: ""
 layout: page
-permalink: https://arthak.fr/coloriages/
+permalink: https://arthak.fr/colo/
 published: true
 post_date: 2020-04-08 11:14:30
 ---
