@@ -1,6 +1,6 @@
 ---
 ID: 2
-post_title: About
+post_title: A propos
 author: arthak
 post_excerpt: ""
 layout: page
