@@ -40,7 +40,7 @@ post_date: 2016-04-24 12:12:29
 
 <h2>A Savoir<span class="Apple-converted-space">&nbsp;</span></h2>
 <p>Tattoo en studio privé "Pixel" à Grenoble.<span class="Apple-converted-space">&nbsp;</span></p>
-<p>Je fonctionne par réservation et acompte. Pour réserver une pièce ainsi qu'une date de rendez-vous, je demande un acompte.<span class="Apple-converted-space">&nbsp;</span></p>
+<p>Je fonctionne par réservation et acompte. Pour réserver une pièce ainsi qu'une date de rendez-vous, je demande un acompte.<span class="Apple-converted-space">&nbsp;</span>  Vous pouvez envoyer votre acompte via <a href="https://paypal.me/arthakttt?locale.x=fr_FR">ce lien Paypal</a>.</p>
 <p>Dès que l'acompte est reçu, nous fixons une date de rendez-vous ensemble. Cet acompte (arrhes) n'est pas remboursable et couvre les dommages et intérêts en cas d'annulation ou de report de rendez-vous. Si le report est justifié et prévenu à temps (7 jours maximum avant la date de rendez-vous), une nouvelle date de rendez-vous sera trouvée ensemble. Le report ne peut être effectué qu'une seule fois, le cas échéant il faudra à nouveau avancer un acompte (arrhes) afin de trouver une nouvelle date de rendez-vous.</p>
 <p>Ces mesures sont prises dans votre intérêt, dans le mien, et permet une relation tatoueur-client professionnelle et respectueuse de chacun.<span class="Apple-converted-space">&nbsp;</span></p>
 <p>Pour un projet personnel, une fois l'acompte reçu, je commencerai à travailler sur le projet et vous enverrai continuellement les avancées du projet jusqu'à satisfaction.<span class="Apple-converted-space">&nbsp;</span></p>
