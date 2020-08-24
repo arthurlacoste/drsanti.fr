@@ -4,7 +4,7 @@ post_title: Guest book
 author: arthak
 post_excerpt: ""
 layout: page
-permalink: https://arthak.fr/guest-book/
+permalink: https://arthak.fr/book/
 published: true
 post_date: 2020-01-31 09:23:32
 ---
