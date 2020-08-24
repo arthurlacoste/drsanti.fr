@@ -67,3 +67,13 @@ post_date: 2020-01-31 09:23:32
 <!-- wp:image {"id":1157,"sizeSlug":"large"} -->
 <figure class="wp-block-image size-large"><img src="https://arthak.fr/wp-content/uploads/2020/01/B6974D63-A582-46FD-8008-61A2BFA278AE.png" alt="" class="wp-image-1157"/></figure>
 <!-- /wp:image -->
+
+<!-- wp:html /-->
+
+<!-- wp:paragraph -->
+<p>Interessé par mon travail ?</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><a href="https://arthak.fr/contact/" target="_blank" rel="noreferrer noopener">Bookez-moi en guest, je suis en recherche active pour 2021 !</a></p>
+<!-- /wp:paragraph -->
