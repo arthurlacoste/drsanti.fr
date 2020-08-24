@@ -9,8 +9,8 @@ published: true
 post_date: 2020-01-31 09:23:32
 ---
 <!-- wp:group -->
-<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":2895,"sizeSlug":"large"} -->
-<figure class="wp-block-image size-large"><img src="https://arthak.fr/wp-content/uploads/2020/05/A31418FE-DEDA-4F49-90D6-CF6CBDDAB4D4_1_105_c.jpeg" alt="" class="wp-image-2895"/></figure>
+<div class="wp-block-group"><div class="wp-block-group__inner-container"><!-- wp:image {"id":3352,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://arthak.fr/wp-content/uploads/2020/08/unnamed-2.jpg" alt="" class="wp-image-3352"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":2276,"sizeSlug":"large"} -->
